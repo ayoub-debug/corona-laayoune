@@ -1,3 +1,3 @@
 <php
-	header("location: home.html");
+	include_once("location: home.html");
 ?>
